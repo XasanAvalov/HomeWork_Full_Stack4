@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "fullName": "Xasan",
+    "balanc": 220800
+  },
+  {
+    "id": 2,
+    "fullName": "Xusan",
+    "balanc": 302200
+  },
+  {
+    "id": 3,
+    "fullName": "Davron",
+    "balanc": 200000
+  },
+  {
+    "id": 4,
+    "fullName": "Baxrom",
+    "balanc": 120000
+  }
+]
